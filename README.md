@@ -70,8 +70,7 @@ node server.js
 </pre>
 
 
-### 실행 화면
----------------------------------------------
+## 실행 화면
 home/about/whishlist 탭
 
 결과화면 | 설명 
@@ -97,8 +96,7 @@ home/about/whishlist 탭
 
 
 
-### 실제 사용 과정
------------------------------------------------
+## 실제 사용 과정
 도서 검색<p></p>
 [![도서검색 영상](https://img.youtube.com/vi/6C-BKN7NcAk/0.jpg)](https://www.youtube.com/6C-BKN7NcAk?t=0s)
 
